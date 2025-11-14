@@ -43,7 +43,7 @@ function TodoList() {
 
   return (
     <>
-      <h1 className='text-center mt-3 mb-5'>What's your today's plan?</h1>
+      <h1 className='text-center mt-3 mb-5'>Imama Hashim, set your today's schedule</h1>
       <TodoForm onSubmit={addTodo}
       />
       <Todo
